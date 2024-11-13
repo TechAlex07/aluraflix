@@ -4,3 +4,12 @@ body {
     margin: 0px;
     font-family: "Josefin Sans", sans-serif;
     margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(189, 18, 18);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(40, 28, 204);
+}
+
