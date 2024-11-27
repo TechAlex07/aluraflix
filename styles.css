@@ -52,9 +52,9 @@ header {
 
   .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(128, 4, 0);
+    border: 3px solid rgb(14, 170, 243);
   }
 
   .categoria h2 {
-      color:rgb(21, 91, 221);
+      color:rgb(247, 68, 14);
   }
