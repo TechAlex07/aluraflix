@@ -26,5 +26,35 @@ header {
  }
 
  h1 {
-     front-size: 40px:
+     font-size: 40px:
  }
+
+  p {
+      font-size: 20px;
+  }
+
+  .categoria-vídeos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+
+  .categoria {
+      padding-left: 20px;
+      padding-right: 20px;
+      margin-top: 50px;
+  }
+
+  .categoria-vídeos img {
+    opacity: 0.5;
+    height: 200px;
+  }
+
+  .categoria-vídeos img:houver {
+    opacity: 1.0;
+    border: 3px solid green;
+  }
+
+  .categoria h2 {
+      color:rgb(40, 28, 204);
+  }
