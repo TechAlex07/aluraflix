@@ -33,7 +33,7 @@ header {
       font-size: 20px;
   }
 
-  .categoria-vídeos {
+  .categoria-videos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
@@ -45,12 +45,12 @@ header {
       margin-top: 50px;
   }
 
-  .categoria-vídeos img {
+  .categoria-videos img {
     opacity: 0.5;
     height: 200px;
   }
 
-  .categoria-vídeos img:houver {
+  .categoria-videos img:houver {
     opacity: 1.0;
     border: 3px solid green;
   }
